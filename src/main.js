@@ -1,6 +1,6 @@
 import './style.css'
 
 const el = document.getElementById('msg')
-el.textContent = 'Version buildable avec Vite ✅'
+el.textContent = 'Vite Build Test ✅'
 
-console.log('Guappo test — dev/build works')
+console.log('dev/build works')
