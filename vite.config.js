@@ -7,5 +7,5 @@ import { defineConfig } from 'vite'
  *   modifie la valeur en '/<repo>/'
  */
 export default defineConfig({
-  base: '/',
+  base: '/Test-Vite/',
 })
